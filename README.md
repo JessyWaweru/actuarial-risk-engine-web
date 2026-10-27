@@ -1,8 +1,13 @@
 <div align="center">
 
-# 📈 Actuarial Risk Model — Frontend
+# 📈 Actuarial Risk Engine · Web
 
-**React + TypeScript dashboard for the [Actuarial Risk Model API](https://github.com/JessyWaweru/ACTUARIAL_RISK_MODEL) — pricing, reserving, and tail-risk modeling in the browser.**
+### Price a policy, simulate a catastrophe, stress-test a fund, all from one form. 🎲
+
+**React + TypeScript dashboard for the [Actuarial Risk Engine API](https://github.com/JessyWaweru/actuarial-risk-engine): pricing, reserving and tail-risk modelling in the browser.**
+
+[![API docs](https://img.shields.io/badge/🔴_Live_API-Swagger_docs-009688?style=for-the-badge)](https://actuarial-risk-model-api.onrender.com/docs)
+[![Backend](https://img.shields.io/badge/Backend_Repo-actuarial--risk--engine-0f172a?style=for-the-badge&logo=github)](https://github.com/JessyWaweru/actuarial-risk-engine)
 
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-6.0-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -16,7 +21,7 @@
 
 ## 🌐 Overview
 
-A single-page dashboard that turns the [Actuarial Risk Model API](https://github.com/JessyWaweru/ACTUARIAL_RISK_MODEL)'s Monte Carlo engine, pricing tools, and tail-risk models into interactive forms and charts — pricing a policy, running a simulation, or stress-testing an assumption is a form submit away.
+A single-page dashboard that turns the [Actuarial Risk Engine API](https://github.com/JessyWaweru/actuarial-risk-engine)'s Monte Carlo engine, pricing tools, and tail-risk models into interactive forms and charts — pricing a policy, running a simulation, or stress-testing an assumption is a form submit away.
 
 ## ✨ Features
 
