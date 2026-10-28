@@ -17,6 +17,10 @@
 
 </div>
 
+<p align="center">
+  <img src="docs/demo.gif" width="800" alt="Demo: pick Homa Bay county, set the sum insured, run Analyze, and scroll through the premium, VaR/TVaR, historical payout and simulated payout charts">
+</p>
+
 ---
 
 ## 🌐 Overview
